@@ -174,7 +174,7 @@ zzcombo_lambda_obs = np.concatenate((lambda_obs_26, lambda_obs_103, lambda_obs_v
 
 # hdu_save.writeto('save_data.fits')
 
-#SCREW IT, SAVE IT AS ONE BY ONE
+# SAVE IT AS ONE BY ONE
 
 
 
@@ -247,3 +247,4 @@ zzcombo_lambda_obs = np.concatenate((lambda_obs_26, lambda_obs_103, lambda_obs_v
         ## correct for reddening by RA and declination (confirm with the paper again) (galactic exinction correction)
         ## use Fantasy code
         
+
