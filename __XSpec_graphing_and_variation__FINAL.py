@@ -394,7 +394,7 @@ def line_by_line_var (line1 = inp_lin1_cont,
 
 ## plotting function ##########################################################
 """
-THIS STILL NEED WORKING, TANYA SAYYED LGI ANJIR SOAL INIIIIIIII
+THIS STILL NEED WORKING
 
 and to be plotted, all!
     focus on the fwhm_arr and the peak params
@@ -819,3 +819,4 @@ plotting (absrad_var_arr, absrad_xrad2lin_params, absrad_fwhm, absrad_peak_param
 # absrad_energy, absrad_flux_unabs, absrad_flux_abs = xrad2run(line3 = inp_lin3_abrad)
 
 # am_fwhm_line = fwhm_calc(absrad_energy, absrad_flux_unabs, absrad_flux_abs, graph='True')
+
